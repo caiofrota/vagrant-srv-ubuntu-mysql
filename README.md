@@ -22,7 +22,13 @@ These instructions will get you a copy of the project up and running on your loc
 $ git clone https://github.com/caiofrota/vagrant-srv-ubuntu-mysql.git
 $ cd vagrant-srv-ubuntu-mysql
 $ vagrant up
+$ vagrant ssh
 ```
+
+#### MySQL
+
+- Username: root
+- Password: vagrant
 
 ## Authors
 
